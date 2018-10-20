@@ -8,7 +8,7 @@ challengeType: 1
 <section id='description'>
 With JavaScript <code>array</code> variables, we can store several pieces of data in one place.
 You start an array declaration with an opening square bracket, end it with a closing square bracket, and put a comma between each entry, like this:
-<code>var sandwich = ["peanut butter", "jelly", "bread"]</code>.
+<code>var sandwich = ["peanut butter", "jelly", "bread"];</code>.
 </section>
 
 ## Instructions
